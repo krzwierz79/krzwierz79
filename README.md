@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm an English<=>Polish translator, EFL trainer, enthusiastic and aspiring junior programmer. I help IT people speak their mind in English, make documentation readable to users as well as business, and make sure that terminology is a tool for communication rather than gatekeeping.
+
+Here I'm having fun participating in a Python bootcamp. 
+
+I have another account geared more towards linguistics/ tranlsation/ portfolio at [github.com/krzysiekwie](https://github.com/krzysiekwie "github.com/krzysiekwie")
+
 
 <!--
 **krzwierz79/krzwierz79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
